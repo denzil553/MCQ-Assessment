@@ -89,7 +89,7 @@ def logout():
 
 def rules():
 	print('''\n==========RULES==========
-1. Each round consists of 10 random questions. To answer, you must press A/B/C/D (case-insensitive).
+1. There is 5 random questions. To answer, you must press A/B/C/D.
 Your final score will be given at the end.
 2. Each question consists of 1 point. There's no negative point for wrong answers.
 3. You can create an account from ACCOUNT CREATION panel.
