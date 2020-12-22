@@ -5,7 +5,7 @@ import getpass
 user = []
 
 def play():
-	print("\n==========QUIZ START==========")
+	print("\n==========QUIZ Game==========")
 	score = 0
 	with open("data/questions.json", 'r+') as f:
 		j = json.load(f)
@@ -98,12 +98,12 @@ Your final score will be given at the end.
 
 def about():
 	print('''\n==========ABOUT US==========
-This project is created by Satyam swet For the python developer assessment test of edyoda''')
+This Quiz is made in India with Love''')
 
 if __name__ == "__main__":
 	choice = 1
 	while choice != 7:
-		print('\n=========WELCOME TO QUIZ MASTER==========')
+		print('\n=========WELCOME TO QUIZ Game==========')
 		print('-----------------------------------------')
 		print('1. PLAY QUIZ')
 		print('2. ADD QUIZ QUESTIONS')
