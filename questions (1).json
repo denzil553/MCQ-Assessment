@@ -1,0 +1,40 @@
+[{
+	"question1": " What is the Capital of India.",
+    "options": ["A) Bangalore
+"B) Kolkata"
+"C) Mumbai"
+"D) New Delhi"],
+"answer": "D New Delhi",
+},
+{
+	"question2": " What is the Capital of Sri Lanka  .",
+    "options": ["A) Colombo,
+"B) Sri Jayawardenaepura Kotte",
+"C) Anuradhapura,",
+"D) Mankulam,"],
+"answer": "A Colombo",
+},
+{
+	"question3": " What is the Capital of Japan  ",
+    "options": ["A) Kyoto,,
+"B) Nagoya,",
+"C) Tokyo,",
+"D) Hiroshima,"],
+"answer": "B. Tokyo",
+},
+{
+	"question4": " What is the Capital of Singapore ? ",
+    "options": ["A) Kluang,,
+"B) Malacca,",
+"C) Singapore,",
+"D) Taiping,"],
+"answer": "C Singapore",
+},
+{
+	"question5": " What is the Capital of Nepal  ",
+    "options": ["A) Kathmandu,,
+"B) Nepalgunj,",
+"C) Bharatpur,",
+"D) Patan,"],
+"answer": "A Kathmandu ",
+}]
